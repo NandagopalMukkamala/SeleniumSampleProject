@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+    <line>
+      <![CDATA[Firefox Browser object created]]>
+    </line>
+    <line>
+      <![CDATA[Maximize Browser Window]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to eCPS QA portal]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for QA portal to load]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Member login link]]>
+    </line>
+    <line>
+      <![CDATA[Enters user Name]]>
+    </line>
+    <line>
+      <![CDATA[Enters Password]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on login button]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Marketplace tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add supplier icon]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Generate Reports icon]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on My Favorities icon]]>
+    </line>
+    <line>
+      <![CDATA[Selects Menus & Recipes Main tab]]>
+    </line>
+    <line>
+      <![CDATA[Selects Recipes Sub tab]]>
+    </line>
+    <line>
+      <![CDATA[Recipes Home page exists]]>
+    </line>
+    <line>
+      <![CDATA[Recipes List page exists]]>
+    </line>
+    <line>
+      <![CDATA[Recipes table loaded]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Recipe name in list page]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Menus & Recipes tab]]>
+    </line>
+    <line>
+      <![CDATA[Menu builder page exists]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Themedays tab]]>
+    </line>
+    <line>
+      <![CDATA[Themedays page exists]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Education tab]]>
+    </line>
+    <line>
+      <![CDATA[Education page exists]]>
+    </line>
+    <line>
+      <![CDATA[Chrome Browser object created]]>
+    </line>
+    <line>
+      <![CDATA[Maximize Browser Window]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to eCPS QA portal]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for QA portal to load]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Member login link]]>
+    </line>
+    <line>
+      <![CDATA[Enters user Name]]>
+    </line>
+    <line>
+      <![CDATA[Enters Password]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on login button]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Marketplace tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add supplier icon]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Generate Reports icon]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on My Favorities icon]]>
+    </line>
+    <line>
+      <![CDATA[Selects Menus & Recipes Main tab]]>
+    </line>
+    <line>
+      <![CDATA[Selects Recipes Sub tab]]>
+    </line>
+    <line>
+      <![CDATA[Recipes Home page exists]]>
+    </line>
+    <line>
+      <![CDATA[Recipes List page exists]]>
+    </line>
+    <line>
+      <![CDATA[Recipes table loaded]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Recipe name in list page]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Menus & Recipes tab]]>
+    </line>
+    <line>
+      <![CDATA[Menu builder page exists]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Themedays tab]]>
+    </line>
+    <line>
+      <![CDATA[Themedays page exists]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Education tab]]>
+    </line>
+    <line>
+      <![CDATA[Education page exists]]>
+    </line>
+    <line>
+      <![CDATA[Edge Browser object created]]>
+    </line>
+    <line>
+      <![CDATA[Maximize Browser Window]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to eCPS QA portal]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for QA portal to load]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Member login link]]>
+    </line>
+    <line>
+      <![CDATA[Enters user Name]]>
+    </line>
+    <line>
+      <![CDATA[Enters Password]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on login button]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Marketplace tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add supplier icon]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Generate Reports icon]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on My Favorities icon]]>
+    </line>
+    <line>
+      <![CDATA[Selects Menus & Recipes Main tab]]>
+    </line>
+    <line>
+      <![CDATA[Selects Recipes Sub tab]]>
+    </line>
+    <line>
+      <![CDATA[Recipes Home page exists]]>
+    </line>
+    <line>
+      <![CDATA[Recipes List page exists]]>
+    </line>
+    <line>
+      <![CDATA[Recipes table loaded]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Recipe name in list page]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Menus & Recipes tab]]>
+    </line>
+    <line>
+      <![CDATA[Menu builder page exists]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Themedays tab]]>
+    </line>
+    <line>
+      <![CDATA[Themedays page exists]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Education tab]]>
+    </line>
+    <line>
+      <![CDATA[Education page exists]]>
+    </line>
+  </reporter-output>
+  <suite name="Multi BrowserSuite" duration-ms="495328" started-at="2020-01-21T00:02:54Z" finished-at="2020-01-21T00:11:09Z">
+    <groups>
+    </groups>
+    <test name="Firefox browser Test" duration-ms="164714" started-at="2020-01-21T00:02:54Z" finished-at="2020-01-21T00:05:38Z">
+      <class name="com.portal.ecps.ca.Testing">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.portal.ecps.ca.Testing@7a765367]" name="setup" is-config="true" duration-ms="27271" started-at="2020-01-21T00:02:54Z" finished-at="2020-01-21T00:03:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Firefox Browser object created]]>
+            </line>
+            <line>
+              <![CDATA[Maximize Browser Window]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to eCPS QA portal]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for QA portal to load]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Member login link]]>
+            </line>
+            <line>
+              <![CDATA[Enters user Name]]>
+            </line>
+            <line>
+              <![CDATA[Enters Password]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on login button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Marketingtab()[pri:0, instance:com.portal.ecps.ca.Testing@7a765367]" name="Marketingtab" duration-ms="61059" started-at="2020-01-21T00:03:21Z" finished-at="2020-01-21T00:04:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Marketplace tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add supplier icon]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Generate Reports icon]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on My Favorities icon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Marketingtab -->
+        <test-method status="PASS" signature="testingexercise()[pri:1, instance:com.portal.ecps.ca.Testing@7a765367]" name="testingexercise" duration-ms="31918" started-at="2020-01-21T00:04:22Z" finished-at="2020-01-21T00:04:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Selects Menus & Recipes Main tab]]>
+            </line>
+            <line>
+              <![CDATA[Selects Recipes Sub tab]]>
+            </line>
+            <line>
+              <![CDATA[Recipes Home page exists]]>
+            </line>
+            <line>
+              <![CDATA[Recipes List page exists]]>
+            </line>
+            <line>
+              <![CDATA[Recipes table loaded]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Recipe name in list page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testingexercise -->
+        <test-method status="PASS" signature="menubuildertab()[pri:2, instance:com.portal.ecps.ca.Testing@7a765367]" name="menubuildertab" duration-ms="22934" started-at="2020-01-21T00:04:54Z" finished-at="2020-01-21T00:05:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Menus & Recipes tab]]>
+            </line>
+            <line>
+              <![CDATA[Menu builder page exists]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- menubuildertab -->
+        <test-method status="PASS" signature="Themedaystab()[pri:3, instance:com.portal.ecps.ca.Testing@7a765367]" name="Themedaystab" duration-ms="7837" started-at="2020-01-21T00:05:17Z" finished-at="2020-01-21T00:05:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Themedays tab]]>
+            </line>
+            <line>
+              <![CDATA[Themedays page exists]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Themedaystab -->
+        <test-method status="PASS" signature="Educationtab()[pri:4, instance:com.portal.ecps.ca.Testing@7a765367]" name="Educationtab" duration-ms="11735" started-at="2020-01-21T00:05:25Z" finished-at="2020-01-21T00:05:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Education tab]]>
+            </line>
+            <line>
+              <![CDATA[Education page exists]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Educationtab -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.portal.ecps.ca.Testing@7a765367]" name="teardown" is-config="true" duration-ms="1927" started-at="2020-01-21T00:05:36Z" finished-at="2020-01-21T00:05:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.portal.ecps.ca.Testing -->
+    </test> <!-- Firefox browser Test -->
+    <test name="Chrome browser Test" duration-ms="174686" started-at="2020-01-21T00:05:38Z" finished-at="2020-01-21T00:08:33Z">
+      <class name="com.portal.ecps.ca.Testing">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.portal.ecps.ca.Testing@2c039ac6]" name="setup" is-config="true" duration-ms="25885" started-at="2020-01-21T00:05:38Z" finished-at="2020-01-21T00:06:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome Browser object created]]>
+            </line>
+            <line>
+              <![CDATA[Maximize Browser Window]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to eCPS QA portal]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for QA portal to load]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Member login link]]>
+            </line>
+            <line>
+              <![CDATA[Enters user Name]]>
+            </line>
+            <line>
+              <![CDATA[Enters Password]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on login button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Marketingtab()[pri:0, instance:com.portal.ecps.ca.Testing@2c039ac6]" name="Marketingtab" duration-ms="86050" started-at="2020-01-21T00:06:04Z" finished-at="2020-01-21T00:07:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Marketplace tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add supplier icon]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Generate Reports icon]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on My Favorities icon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Marketingtab -->
+        <test-method status="PASS" signature="testingexercise()[pri:1, instance:com.portal.ecps.ca.Testing@2c039ac6]" name="testingexercise" duration-ms="26603" started-at="2020-01-21T00:07:30Z" finished-at="2020-01-21T00:07:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Selects Menus & Recipes Main tab]]>
+            </line>
+            <line>
+              <![CDATA[Selects Recipes Sub tab]]>
+            </line>
+            <line>
+              <![CDATA[Recipes Home page exists]]>
+            </line>
+            <line>
+              <![CDATA[Recipes List page exists]]>
+            </line>
+            <line>
+              <![CDATA[Recipes table loaded]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Recipe name in list page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testingexercise -->
+        <test-method status="PASS" signature="menubuildertab()[pri:2, instance:com.portal.ecps.ca.Testing@2c039ac6]" name="menubuildertab" duration-ms="22215" started-at="2020-01-21T00:07:57Z" finished-at="2020-01-21T00:08:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Menus & Recipes tab]]>
+            </line>
+            <line>
+              <![CDATA[Menu builder page exists]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- menubuildertab -->
+        <test-method status="PASS" signature="Themedaystab()[pri:3, instance:com.portal.ecps.ca.Testing@2c039ac6]" name="Themedaystab" duration-ms="2130" started-at="2020-01-21T00:08:19Z" finished-at="2020-01-21T00:08:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Themedays tab]]>
+            </line>
+            <line>
+              <![CDATA[Themedays page exists]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Themedaystab -->
+        <test-method status="PASS" signature="Educationtab()[pri:4, instance:com.portal.ecps.ca.Testing@2c039ac6]" name="Educationtab" duration-ms="10568" started-at="2020-01-21T00:08:21Z" finished-at="2020-01-21T00:08:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Education tab]]>
+            </line>
+            <line>
+              <![CDATA[Education page exists]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Educationtab -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.portal.ecps.ca.Testing@2c039ac6]" name="teardown" is-config="true" duration-ms="1224" started-at="2020-01-21T00:08:32Z" finished-at="2020-01-21T00:08:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.portal.ecps.ca.Testing -->
+    </test> <!-- Chrome browser Test -->
+    <test name="Edge browser Test" duration-ms="155834" started-at="2020-01-21T00:08:33Z" finished-at="2020-01-21T00:11:09Z">
+      <class name="com.portal.ecps.ca.Testing">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.portal.ecps.ca.Testing@687080dc]" name="setup" is-config="true" duration-ms="33116" started-at="2020-01-21T00:08:33Z" finished-at="2020-01-21T00:09:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Edge Browser object created]]>
+            </line>
+            <line>
+              <![CDATA[Maximize Browser Window]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to eCPS QA portal]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for QA portal to load]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Member login link]]>
+            </line>
+            <line>
+              <![CDATA[Enters user Name]]>
+            </line>
+            <line>
+              <![CDATA[Enters Password]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on login button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Marketingtab()[pri:0, instance:com.portal.ecps.ca.Testing@687080dc]" name="Marketingtab" duration-ms="59482" started-at="2020-01-21T00:09:06Z" finished-at="2020-01-21T00:10:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Marketplace tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add supplier icon]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Generate Reports icon]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on My Favorities icon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Marketingtab -->
+        <test-method status="PASS" signature="testingexercise()[pri:1, instance:com.portal.ecps.ca.Testing@687080dc]" name="testingexercise" duration-ms="29120" started-at="2020-01-21T00:10:06Z" finished-at="2020-01-21T00:10:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Selects Menus & Recipes Main tab]]>
+            </line>
+            <line>
+              <![CDATA[Selects Recipes Sub tab]]>
+            </line>
+            <line>
+              <![CDATA[Recipes Home page exists]]>
+            </line>
+            <line>
+              <![CDATA[Recipes List page exists]]>
+            </line>
+            <line>
+              <![CDATA[Recipes table loaded]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Recipe name in list page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testingexercise -->
+        <test-method status="PASS" signature="menubuildertab()[pri:2, instance:com.portal.ecps.ca.Testing@687080dc]" name="menubuildertab" duration-ms="18652" started-at="2020-01-21T00:10:35Z" finished-at="2020-01-21T00:10:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Menus & Recipes tab]]>
+            </line>
+            <line>
+              <![CDATA[Menu builder page exists]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- menubuildertab -->
+        <test-method status="PASS" signature="Themedaystab()[pri:3, instance:com.portal.ecps.ca.Testing@687080dc]" name="Themedaystab" duration-ms="1974" started-at="2020-01-21T00:10:53Z" finished-at="2020-01-21T00:10:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Themedays tab]]>
+            </line>
+            <line>
+              <![CDATA[Themedays page exists]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Themedaystab -->
+        <test-method status="PASS" signature="Educationtab()[pri:4, instance:com.portal.ecps.ca.Testing@687080dc]" name="Educationtab" duration-ms="10568" started-at="2020-01-21T00:10:55Z" finished-at="2020-01-21T00:11:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Education tab]]>
+            </line>
+            <line>
+              <![CDATA[Education page exists]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Educationtab -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.portal.ecps.ca.Testing@687080dc]" name="teardown" is-config="true" duration-ms="2909" started-at="2020-01-21T00:11:06Z" finished-at="2020-01-21T00:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.portal.ecps.ca.Testing -->
+    </test> <!-- Edge browser Test -->
+  </suite> <!-- Multi BrowserSuite -->
+</testng-results>

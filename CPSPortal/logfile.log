@@ -1,0 +1,464 @@
+2019-06-13 10:32:27,730 INFO  [Log] #######################################Log Started################################# 
+2019-06-13 10:32:33,166 INFO  [Log] Firefox Browser object created 
+2019-06-13 10:32:36,447 INFO  [Log] Maximize browser window 
+2019-06-13 10:32:49,089 INFO  [Log] Navigate to eCPS QA portal 
+2019-06-13 10:32:49,114 INFO  [Log] Waiting for QA portal to load 
+2019-06-13 10:32:49,388 INFO  [Log] Clicks Member login 
+2019-06-13 10:32:49,479 INFO  [Log] Enters user Name 
+2019-06-13 10:32:49,538 INFO  [Log] Enters Password 
+2019-06-13 10:32:49,792 INFO  [Log] Clicks on login button 
+2019-06-13 10:33:09,768 INFO  [Log] Clicks on Marketplace tab 
+2019-06-13 10:33:56,451 INFO  [Log] Clicks on Add supplier icon 
+2019-06-13 10:34:06,005 INFO  [Log] Clicks on Generate Reports icon 
+2019-06-13 10:34:19,574 INFO  [Log] Clicks on My Favorities icon 
+2019-06-13 10:34:27,121 INFO  [Log] Selects Menus & Recipes Main tab 
+2019-06-13 10:34:31,539 INFO  [Log] Selects Recipes Sub tab 
+2019-06-13 10:34:39,263 INFO  [Log] Recipes Home page exists 
+2019-06-13 10:34:48,146 INFO  [Log] Recipes List page exists 
+2019-06-13 10:34:48,264 INFO  [Log] Recipes table loaded 
+2019-06-13 10:34:48,839 INFO  [Log] Clicks on Recipe name in list page 
+2019-06-13 10:35:09,237 INFO  [Log] Clicks on Menus & Recipes tab 
+2019-06-13 10:36:00,335 INFO  [Log] Clicks on Themedays tab 
+2019-06-13 10:36:06,745 INFO  [Log] Themedays page exists 
+2019-06-13 10:36:07,522 INFO  [Log] Clicks on Education tab 
+2019-06-13 10:36:17,223 INFO  [Log] Education page exists 
+2019-06-13 10:36:23,855 INFO  [Log] #######################################Log Started################################# 
+2019-06-13 10:36:26,720 INFO  [Log] Chrome Browser object created 
+2019-06-13 10:36:30,903 INFO  [Log] Maximize browser window 
+2019-06-13 10:36:33,034 INFO  [Log] Navigate to eCPS QA portal 
+2019-06-13 10:36:33,040 INFO  [Log] Waiting for QA portal to load 
+2019-06-13 10:36:33,186 INFO  [Log] Clicks Member login 
+2019-06-13 10:36:33,377 INFO  [Log] Enters user Name 
+2019-06-13 10:36:33,499 INFO  [Log] Enters Password 
+2019-06-13 10:36:33,570 INFO  [Log] Clicks on login button 
+2019-06-13 10:36:50,914 INFO  [Log] Clicks on Marketplace tab 
+2019-06-13 10:37:14,988 INFO  [Log] Clicks on Add supplier icon 
+2019-06-13 10:37:19,060 INFO  [Log] Clicks on Generate Reports icon 
+2019-06-13 10:37:24,012 INFO  [Log] Clicks on My Favorities icon 
+2019-06-13 10:37:31,571 INFO  [Log] Selects Menus & Recipes Main tab 
+2019-06-13 10:37:37,225 INFO  [Log] Selects Recipes Sub tab 
+2019-06-13 10:37:38,779 INFO  [Log] Recipes Home page exists 
+2019-06-13 10:37:42,461 INFO  [Log] Recipes List page exists 
+2019-06-13 10:37:42,495 INFO  [Log] Recipes table loaded 
+2019-06-13 10:37:44,745 INFO  [Log] Clicks on Recipe name in list page 
+2019-06-13 10:38:00,981 INFO  [Log] Clicks on Menus & Recipes tab 
+2019-06-13 10:38:01,140 INFO  [Log] Menu builder page exists 
+2019-06-13 10:38:07,307 INFO  [Log] Clicks on Themedays tab 
+2019-06-13 10:38:07,388 INFO  [Log] Themedays page exists 
+2019-06-13 10:38:11,919 INFO  [Log] Clicks on Education tab 
+2019-06-13 10:38:11,998 INFO  [Log] Education page exists 
+2019-06-13 10:38:18,286 INFO  [Log] #######################################Log Started################################# 
+2019-06-13 10:38:21,180 INFO  [Log] Edge Browser object created 
+2019-06-13 10:38:24,185 INFO  [Log] Maximize browser window 
+2019-06-13 10:38:25,857 INFO  [Log] Navigate to eCPS QA portal 
+2019-06-13 10:38:25,862 INFO  [Log] Waiting for QA portal to load 
+2019-06-13 10:38:26,092 INFO  [Log] Clicks Member login 
+2019-06-13 10:38:26,223 INFO  [Log] Enters user Name 
+2019-06-13 10:38:26,279 INFO  [Log] Enters Password 
+2019-06-13 10:38:26,309 INFO  [Log] Clicks on login button 
+2019-06-13 10:38:41,634 INFO  [Log] Clicks on Marketplace tab 
+2019-06-13 10:39:09,939 INFO  [Log] Clicks on Add supplier icon 
+2019-06-13 10:39:16,196 INFO  [Log] Clicks on Generate Reports icon 
+2019-06-13 10:39:21,774 INFO  [Log] Clicks on My Favorities icon 
+2019-06-13 10:39:28,961 INFO  [Log] Selects Menus & Recipes Main tab 
+2019-06-13 10:39:33,143 INFO  [Log] Selects Recipes Sub tab 
+2019-06-13 10:39:36,307 INFO  [Log] Recipes Home page exists 
+2019-06-13 10:39:40,437 INFO  [Log] Recipes List page exists 
+2019-06-13 10:39:40,460 INFO  [Log] Recipes table loaded 
+2019-06-13 10:39:40,855 INFO  [Log] Clicks on Recipe name in list page 
+2019-06-13 10:39:54,456 INFO  [Log] Clicks on Menus & Recipes tab 
+2019-06-13 10:39:57,528 INFO  [Log] Menu builder page exists 
+2019-06-13 10:40:01,666 INFO  [Log] Clicks on Themedays tab 
+2019-06-13 10:40:03,748 INFO  [Log] Themedays page exists 
+2019-06-13 10:40:03,892 INFO  [Log] Clicks on Education tab 
+2019-06-13 10:40:07,068 INFO  [Log] Education page exists 
+2019-06-13 10:57:01,759 INFO  [Log] #######################################Log Started################################# 
+2019-06-13 10:57:07,162 INFO  [Log] Firefox Browser object created 
+2019-06-13 10:57:10,462 INFO  [Log] Maximize browser window 
+2019-06-13 10:57:20,396 INFO  [Log] Navigate to eCPS QA portal 
+2019-06-13 10:57:20,426 INFO  [Log] Waiting for QA portal to load 
+2019-06-13 10:57:20,707 INFO  [Log] Clicks Member login 
+2019-06-13 10:57:20,801 INFO  [Log] Enters user Name 
+2019-06-13 10:57:20,863 INFO  [Log] Enters Password 
+2019-06-13 10:57:21,145 INFO  [Log] Clicks on login button 
+2019-06-13 10:57:36,787 INFO  [Log] Clicks on Marketplace tab 
+2019-06-13 10:57:56,329 INFO  [Log] Clicks on Add supplier icon 
+2019-06-13 10:58:04,931 INFO  [Log] Clicks on Generate Reports icon 
+2019-06-13 10:58:14,403 INFO  [Log] Clicks on My Favorities icon 
+2019-06-13 10:58:22,063 INFO  [Log] Selects Menus & Recipes Main tab 
+2019-06-13 10:58:26,709 INFO  [Log] Selects Recipes Sub tab 
+2019-06-13 10:58:33,042 INFO  [Log] Recipes Home page exists 
+2019-06-13 10:58:40,638 INFO  [Log] Recipes List page exists 
+2019-06-13 10:58:40,764 INFO  [Log] Recipes table loaded 
+2019-06-13 10:58:41,358 INFO  [Log] Clicks on Recipe name in list page 
+2019-06-13 10:58:59,719 INFO  [Log] Clicks on Menus & Recipes tab 
+2019-06-13 10:59:09,981 INFO  [Log] Menu builder page exists 
+2019-06-13 10:59:14,464 INFO  [Log] Clicks on Themedays tab 
+2019-06-13 10:59:19,633 INFO  [Log] Themedays page exists 
+2019-06-13 10:59:20,122 INFO  [Log] Clicks on Education tab 
+2019-06-13 10:59:25,888 INFO  [Log] Education page exists 
+2019-06-13 10:59:32,532 INFO  [Log] #######################################Log Started################################# 
+2019-06-13 10:59:35,129 INFO  [Log] Chrome Browser object created 
+2019-06-13 10:59:39,295 INFO  [Log] Maximize browser window 
+2019-06-13 10:59:41,962 INFO  [Log] Navigate to eCPS QA portal 
+2019-06-13 10:59:41,972 INFO  [Log] Waiting for QA portal to load 
+2019-06-13 10:59:42,084 INFO  [Log] Clicks Member login 
+2019-06-13 10:59:42,232 INFO  [Log] Enters user Name 
+2019-06-13 10:59:42,345 INFO  [Log] Enters Password 
+2019-06-13 10:59:42,412 INFO  [Log] Clicks on login button 
+2019-06-13 10:59:59,982 INFO  [Log] Clicks on Marketplace tab 
+2019-06-13 11:00:23,719 INFO  [Log] Clicks on Add supplier icon 
+2019-06-13 11:00:38,971 INFO  [Log] Clicks on Generate Reports icon 
+2019-06-13 11:00:43,920 INFO  [Log] Clicks on My Favorities icon 
+2019-06-13 11:00:51,526 INFO  [Log] Selects Menus & Recipes Main tab 
+2019-06-13 11:00:57,441 INFO  [Log] Selects Recipes Sub tab 
+2019-06-13 11:00:58,939 INFO  [Log] Recipes Home page exists 
+2019-06-13 11:01:02,049 INFO  [Log] Recipes List page exists 
+2019-06-13 11:01:02,089 INFO  [Log] Recipes table loaded 
+2019-06-13 11:01:04,503 INFO  [Log] Clicks on Recipe name in list page 
+2019-06-13 11:01:19,141 INFO  [Log] Clicks on Menus & Recipes tab 
+2019-06-13 11:01:19,211 INFO  [Log] Menu builder page exists 
+2019-06-13 11:01:25,174 INFO  [Log] Clicks on Themedays tab 
+2019-06-13 11:01:25,234 INFO  [Log] Themedays page exists 
+2019-06-13 11:01:29,866 INFO  [Log] Clicks on Education tab 
+2019-06-13 11:01:29,922 INFO  [Log] Education page exists 
+2019-06-13 11:01:36,018 INFO  [Log] #######################################Log Started################################# 
+2019-06-13 11:01:38,541 INFO  [Log] Edge Browser object created 
+2019-06-13 11:01:41,560 INFO  [Log] Maximize browser window 
+2019-06-13 11:01:43,100 INFO  [Log] Navigate to eCPS QA portal 
+2019-06-13 11:01:43,118 INFO  [Log] Waiting for QA portal to load 
+2019-06-13 11:01:43,335 INFO  [Log] Clicks Member login 
+2019-06-13 11:01:43,412 INFO  [Log] Enters user Name 
+2019-06-13 11:01:43,459 INFO  [Log] Enters Password 
+2019-06-13 11:01:43,545 INFO  [Log] Clicks on login button 
+2019-06-13 11:01:52,825 INFO  [Log] Clicks on Marketplace tab 
+2019-06-13 11:02:27,300 INFO  [Log] Clicks on Add supplier icon 
+2019-06-13 11:02:32,553 INFO  [Log] Clicks on Generate Reports icon 
+2019-06-13 11:02:38,970 INFO  [Log] Clicks on My Favorities icon 
+2019-06-13 11:02:46,136 INFO  [Log] Selects Menus & Recipes Main tab 
+2019-06-13 11:02:50,324 INFO  [Log] Selects Recipes Sub tab 
+2019-06-13 11:02:53,624 INFO  [Log] Recipes Home page exists 
+2019-06-13 11:02:56,907 INFO  [Log] Recipes List page exists 
+2019-06-13 11:02:56,936 INFO  [Log] Recipes table loaded 
+2019-06-13 11:02:57,320 INFO  [Log] Clicks on Recipe name in list page 
+2019-06-13 11:03:10,666 INFO  [Log] Clicks on Menus & Recipes tab 
+2019-06-13 11:03:14,081 INFO  [Log] Menu builder page exists 
+2019-06-13 11:03:18,303 INFO  [Log] Clicks on Themedays tab 
+2019-06-13 11:03:20,259 INFO  [Log] Themedays page exists 
+2019-06-13 11:03:20,497 INFO  [Log] Clicks on Education tab 
+2019-06-13 11:03:23,591 INFO  [Log] Education page exists 
+2019-06-13 11:13:11,261 INFO  [Log] #######################################Log Started################################# 
+2019-06-13 11:13:16,133 INFO  [Log] Firefox Browser object created 
+2019-06-13 11:13:19,435 INFO  [Log] Maximize browser window 
+2019-06-13 11:13:29,481 INFO  [Log] Navigate to eCPS QA portal 
+2019-06-13 11:13:29,504 INFO  [Log] Waiting for QA portal to load 
+2019-06-13 11:13:29,801 INFO  [Log] Clicks Member login 
+2019-06-13 11:13:29,911 INFO  [Log] Enters user Name 
+2019-06-13 11:13:29,958 INFO  [Log] Enters Password 
+2019-06-13 11:13:30,239 INFO  [Log] Clicks on login button 
+2019-06-13 11:13:46,077 INFO  [Log] Clicks on Marketplace tab 
+2019-06-13 11:14:27,810 INFO  [Log] Clicks on Add supplier icon 
+2019-06-13 11:14:35,117 INFO  [Log] Clicks on Generate Reports icon 
+2019-06-13 11:14:44,021 INFO  [Log] Clicks on My Favorities icon 
+2019-06-13 11:14:51,674 INFO  [Log] Selects Menus & Recipes Main tab 
+2019-06-13 11:14:56,101 INFO  [Log] Selects Recipes Sub tab 
+2019-06-13 11:15:03,713 INFO  [Log] Recipes Home page exists 
+2019-06-13 11:15:11,530 INFO  [Log] Recipes List page exists 
+2019-06-13 11:15:11,645 INFO  [Log] Recipes table loaded 
+2019-06-13 11:15:18,646 INFO  [Log] Clicks on Recipe name in list page 
+2019-06-13 11:15:30,834 INFO  [Log] Clicks on Menus & Recipes tab 
+2019-06-13 11:15:41,039 INFO  [Log] Clicks on Themedays tab 
+2019-06-13 11:15:46,783 INFO  [Log] Themedays page exists 
+2019-06-13 11:15:47,328 INFO  [Log] Clicks on Education tab 
+2019-06-13 11:15:55,282 INFO  [Log] Education page exists 
+2019-06-13 11:16:01,942 INFO  [Log] #######################################Log Started################################# 
+2019-06-13 11:16:01,942 INFO  [Log] Chrome Browser object created 
+2019-06-13 11:16:04,981 INFO  [Log] #######################################Log Started################################# 
+2019-06-13 11:16:04,996 INFO  [Log] Edge Browser object created 
+2019-06-13 11:21:08,878 INFO  [Log] #######################################Log Started################################# 
+2019-06-13 11:21:13,717 INFO  [Log] Firefox Browser object created 
+2019-06-13 11:21:17,023 INFO  [Log] Maximize browser window 
+2019-06-13 11:21:27,089 INFO  [Log] Navigate to eCPS QA portal 
+2019-06-13 11:21:27,100 INFO  [Log] Waiting for QA portal to load 
+2019-06-13 11:21:27,381 INFO  [Log] Clicks Member login 
+2019-06-13 11:21:27,475 INFO  [Log] Enters user Name 
+2019-06-13 11:21:27,569 INFO  [Log] Enters Password 
+2019-06-13 11:21:27,866 INFO  [Log] Clicks on login button 
+2019-06-13 11:21:43,469 INFO  [Log] Clicks on Marketplace tab 
+2019-06-13 11:22:22,724 INFO  [Log] Clicks on Add supplier icon 
+2019-06-13 11:22:31,511 INFO  [Log] Clicks on Generate Reports icon 
+2019-06-13 11:22:40,648 INFO  [Log] Clicks on My Favorities icon 
+2019-06-13 11:22:48,233 INFO  [Log] Selects Menus & Recipes Main tab 
+2019-06-13 11:22:52,699 INFO  [Log] Selects Recipes Sub tab 
+2019-06-13 11:23:00,329 INFO  [Log] Recipes Home page exists 
+2019-06-13 11:23:07,933 INFO  [Log] Recipes List page exists 
+2019-06-13 11:23:08,037 INFO  [Log] Recipes table loaded 
+2019-06-13 11:23:08,615 INFO  [Log] Clicks on Recipe name in list page 
+2019-06-13 11:23:28,117 INFO  [Log] Clicks on Menus & Recipes tab 
+2019-06-13 11:23:38,021 INFO  [Log] Menu builder page exists 
+2019-06-13 11:23:42,492 INFO  [Log] Clicks on Themedays tab 
+2019-06-13 11:23:47,610 INFO  [Log] Themedays page exists 
+2019-06-13 11:23:48,097 INFO  [Log] Clicks on Education tab 
+2019-06-13 11:23:56,395 INFO  [Log] Education page exists 
+2019-06-13 11:24:03,081 INFO  [Log] #######################################Log Started################################# 
+2019-06-13 11:24:03,081 INFO  [Log] Chrome Browser object created 
+2019-06-13 11:24:06,143 INFO  [Log] #######################################Log Started################################# 
+2019-06-13 11:24:06,143 INFO  [Log] Edge Browser object created 
+2019-07-31 22:58:21,194 INFO  [Log] ################################################################################## 
+2019-07-31 22:58:21,194 INFO  [Log] ###############################Log Started######################################### 
+2019-07-31 23:05:40,064 INFO  [Log] ################################################################################## 
+2019-07-31 23:05:40,065 INFO  [Log] ###############################Log Started######################################### 
+2019-07-31 23:05:43,707 INFO  [Log] Browser object created 
+2019-07-31 23:05:44,882 INFO  [Log] Maximize browser 
+2019-07-31 23:05:48,436 INFO  [Log] Clicks on login in login page 
+2019-08-05 19:11:07,024 INFO  [Log] ################################################################################## 
+2019-08-05 19:11:07,025 INFO  [Log] ###############################Log Started######################################### 
+2019-08-05 19:11:11,466 INFO  [Log] Browser object created 
+2019-08-05 19:11:12,615 INFO  [Log] Maximize browser 
+2019-08-05 19:11:18,095 INFO  [Log] Clicks on login in login page 
+2019-08-05 23:16:26,275 INFO  [Log] ################################################################################## 
+2019-08-05 23:16:26,278 INFO  [Log] ###############################Log Started######################################### 
+2019-08-05 23:16:31,282 INFO  [Log] Browser object created 
+2019-08-05 23:16:32,430 INFO  [Log] Maximize browser 
+2019-08-05 23:16:35,699 INFO  [Log] Clicks on login in login page 
+2019-08-06 13:40:58,364 INFO  [Log] ################################################################################## 
+2019-08-06 13:40:58,364 INFO  [Log] ###############################Log Started######################################### 
+2019-08-06 13:42:09,035 INFO  [Log] ################################################################################## 
+2019-08-06 13:42:09,037 INFO  [Log] ###############################Log Started######################################### 
+2019-08-06 13:42:13,398 INFO  [Log] Browser object created 
+2019-08-06 13:42:13,463 INFO  [Log] Maximize browser 
+2019-08-06 13:44:44,359 INFO  [Log] ################################################################################## 
+2019-08-06 13:44:44,360 INFO  [Log] ###############################Log Started######################################### 
+2019-08-06 13:44:47,673 INFO  [Log] Browser object created 
+2019-08-06 13:44:47,694 INFO  [Log] Maximize browser 
+2019-08-06 13:49:41,278 INFO  [Log] #######################################Log Started################################# 
+2019-08-06 13:49:46,656 INFO  [Log] Firefox Browser object created 
+2019-08-06 13:50:46,802 INFO  [Log] #######################################Log Started################################# 
+2019-08-06 13:50:49,718 INFO  [Log] Edge Browser object created 
+2019-08-06 13:50:52,759 INFO  [Log] Maximize browser window 
+2019-08-06 13:50:53,058 INFO  [Log] Navigate to eCPS QA portal 
+2019-08-06 13:50:53,096 INFO  [Log] Waiting for QA portal to load 
+2019-08-06 13:50:53,259 INFO  [Log] #######################################Log Started################################# 
+2019-08-06 13:50:58,435 INFO  [Log] Firefox Browser object created 
+2019-08-06 13:51:01,755 INFO  [Log] Maximize browser window 
+2019-08-06 13:56:48,296 INFO  [Log] #######################################Log Started################################# 
+2019-08-06 13:56:51,405 INFO  [Log] IE Browser object created 
+2019-08-06 13:56:54,455 INFO  [Log] Maximize browser window 
+2019-08-06 13:56:54,735 INFO  [Log] Navigate to eCPS QA portal 
+2019-08-06 13:56:54,755 INFO  [Log] Waiting for QA portal to load 
+2019-08-06 13:56:54,937 INFO  [Log] #######################################Log Started################################# 
+2019-08-06 13:57:00,163 INFO  [Log] Firefox Browser object created 
+2019-08-06 13:57:03,465 INFO  [Log] Maximize browser window 
+2019-08-06 13:58:09,647 INFO  [Log] #######################################Log Started################################# 
+2019-08-06 13:58:12,618 INFO  [Log] IE Browser object created 
+2019-08-06 13:58:15,670 INFO  [Log] Maximize browser window 
+2019-08-06 13:58:15,939 INFO  [Log] Navigate to eCPS QA portal 
+2019-08-06 13:58:22,961 INFO  [Log] Waiting for QA portal to load 
+2019-08-06 13:58:23,120 INFO  [Log] #######################################Log Started################################# 
+2019-08-06 13:58:28,268 INFO  [Log] Firefox Browser object created 
+2019-08-06 13:58:31,571 INFO  [Log] Maximize browser window 
+2019-08-06 14:02:57,783 INFO  [Log] #######################################Log Started################################# 
+2019-08-06 14:03:01,025 INFO  [Log] IE Browser object created 
+2019-08-06 14:03:04,075 INFO  [Log] Maximize browser window 
+2019-08-06 14:03:04,372 INFO  [Log] Navigate to eCPS QA portal 
+2019-08-06 14:03:11,400 INFO  [Log] Waiting for QA portal to load 
+2019-08-06 14:03:11,531 INFO  [Log] #######################################Log Started################################# 
+2019-08-06 14:03:16,232 INFO  [Log] Firefox Browser object created 
+2019-08-06 14:04:53,351 INFO  [Log] ################################################################################## 
+2019-08-06 14:04:53,351 INFO  [Log] ###############################Log Started######################################### 
+2019-08-06 14:04:56,669 INFO  [Log] Browser object created 
+2019-08-06 14:04:56,701 INFO  [Log] Maximize browser 
+2019-08-07 13:11:02,056 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 13:11:09,771 INFO  [Log] Firefox Browser object created 
+2019-08-07 13:11:13,141 INFO  [Log] Maximize browser window 
+2019-08-07 13:11:25,777 INFO  [Log] Navigate to eCPS QA portal 
+2019-08-07 13:11:32,809 INFO  [Log] Waiting for QA portal to load 
+2019-08-07 13:11:33,000 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 13:11:35,149 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 13:15:39,013 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 13:15:45,224 INFO  [Log] Firefox Browser object created 
+2019-08-07 13:15:48,502 INFO  [Log] Maximize browser window 
+2019-08-07 13:16:00,670 INFO  [Log] Navigate to eCPS QA portal 
+2019-08-07 13:16:07,689 INFO  [Log] Waiting for QA portal to load 
+2019-08-07 13:16:07,908 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 13:16:10,559 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 13:16:14,113 INFO  [Log] Edge Browser object created 
+2019-08-07 13:27:23,629 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 13:27:29,111 INFO  [Log] Firefox Browser object created 
+2019-08-07 13:27:32,413 INFO  [Log] Maximize browser window 
+2019-08-07 13:27:44,335 INFO  [Log] Navigate to eCPS QA portal 
+2019-08-07 13:27:51,360 INFO  [Log] Waiting for QA portal to load 
+2019-08-07 13:27:51,507 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 13:27:53,672 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 13:34:22,163 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 13:34:28,135 INFO  [Log] Firefox Browser object created 
+2019-08-07 13:34:31,425 INFO  [Log] Maximize browser window 
+2019-08-07 13:34:44,831 INFO  [Log] Navigate to eCPS QA portal 
+2019-08-07 13:34:51,859 INFO  [Log] Waiting for QA portal to load 
+2019-08-07 13:34:52,132 INFO  [Log] Clicks Member login 
+2019-08-07 13:34:52,254 INFO  [Log] Enters user Name 
+2019-08-07 13:34:52,405 INFO  [Log] Enters Password 
+2019-08-07 13:34:52,716 INFO  [Log] Clicks on login button 
+2019-08-07 15:07:11,643 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 15:07:17,819 INFO  [Log] Firefox Browser object created 
+2019-08-07 15:07:21,178 INFO  [Log] Maximize browser window 
+2019-08-07 15:07:33,105 INFO  [Log] Navigate to eCPS QA portal 
+2019-08-07 15:07:40,127 INFO  [Log] Waiting for QA portal to load 
+2019-08-07 15:07:40,417 INFO  [Log] Clicks Member login 
+2019-08-07 15:07:40,498 INFO  [Log] Enters user Name 
+2019-08-07 15:07:40,562 INFO  [Log] Enters Password 
+2019-08-07 15:08:00,711 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 15:08:02,774 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 15:08:06,452 INFO  [Log] Edge Browser object created 
+2019-08-07 15:09:55,416 INFO  [Log] #######################################Log Started################################# 
+2019-08-07 15:10:00,803 INFO  [Log] Firefox Browser object created 
+2019-08-07 15:10:04,067 INFO  [Log] Maximize browser window 
+2019-08-07 15:11:20,607 INFO  [Log] Navigate to eCPS QA portal 
+2019-08-07 15:11:27,614 INFO  [Log] Waiting for QA portal to load 
+2019-08-07 15:11:27,882 INFO  [Log] Clicks Member login 
+2019-08-07 15:11:27,955 INFO  [Log] Enters user Name 
+2019-08-07 15:11:27,998 INFO  [Log] Enters Password 
+2019-08-07 15:11:28,282 INFO  [Log] Clicks on login button 
+2019-10-30 11:58:40,411 INFO  [Log] #######################################Log Started################################# 
+2019-10-30 11:58:46,399 INFO  [Log] Firefox Browser object created 
+2019-10-30 11:58:59,779 INFO  [Log] #######################################Log Started################################# 
+2019-10-30 11:59:05,052 INFO  [Log] Firefox Browser object created 
+2019-10-30 11:59:08,331 INFO  [Log] Maximize browser window 
+2019-10-30 11:59:11,601 INFO  [Log] Navigate to eCPS QA portal 
+2019-10-30 11:59:18,629 INFO  [Log] Waiting for QA portal to load 
+2019-10-30 11:59:18,898 INFO  [Log] Clicks Member login 
+2019-10-30 11:59:18,970 INFO  [Log] Enters user Name 
+2019-10-30 11:59:19,022 INFO  [Log] Enters Password 
+2019-10-30 11:59:19,295 INFO  [Log] Clicks on login button 
+2019-10-30 11:59:27,746 INFO  [Log] Clicks on Marketplace tab 
+2019-10-30 12:00:01,061 INFO  [Log] Clicks on Add supplier icon 
+2019-10-30 12:00:10,269 INFO  [Log] Clicks on Generate Reports icon 
+2019-10-30 12:00:21,188 INFO  [Log] Clicks on My Favorities icon 
+2019-10-30 12:00:28,717 INFO  [Log] Selects Menus & Recipes Main tab 
+2019-10-30 12:00:33,098 INFO  [Log] Selects Recipes Sub tab 
+2019-10-30 12:00:38,083 INFO  [Log] Recipes Home page exists 
+2019-10-30 12:00:42,594 INFO  [Log] Recipes List page exists 
+2019-10-30 12:00:42,665 INFO  [Log] Recipes table loaded 
+2020-01-20 18:02:54,232 INFO  [Log] #######################################Log Started################################# 
+2020-01-20 18:03:00,385 INFO  [Log] Firefox Browser object created 
+2020-01-20 18:03:03,669 INFO  [Log] Maximize browser window 
+2020-01-20 18:03:09,013 INFO  [Log] Navigate to eCPS QA portal 
+2020-01-20 18:03:16,064 INFO  [Log] Waiting for QA portal to load 
+2020-01-20 18:03:16,330 INFO  [Log] Clicks Member login 
+2020-01-20 18:03:16,411 INFO  [Log] Enters user Name 
+2020-01-20 18:03:16,464 INFO  [Log] Enters Password 
+2020-01-20 18:03:16,738 INFO  [Log] Clicks on login button 
+2020-01-20 18:03:25,055 INFO  [Log] Clicks on Marketplace tab 
+2020-01-20 18:03:58,249 INFO  [Log] Clicks on Add supplier icon 
+2020-01-20 18:04:12,594 INFO  [Log] Clicks on Generate Reports icon 
+2020-01-20 18:04:22,447 INFO  [Log] Clicks on My Favorities icon 
+2020-01-20 18:04:30,006 INFO  [Log] Selects Menus & Recipes Main tab 
+2020-01-20 18:04:34,365 INFO  [Log] Selects Recipes Sub tab 
+2020-01-20 18:04:39,513 INFO  [Log] Recipes Home page exists 
+2020-01-20 18:04:44,575 INFO  [Log] Recipes List page exists 
+2020-01-20 18:04:44,654 INFO  [Log] Recipes table loaded 
+2020-01-20 18:04:50,224 INFO  [Log] Clicks on Recipe name in list page 
+2020-01-20 18:05:02,250 INFO  [Log] Clicks on Menus & Recipes tab 
+2020-01-20 18:05:13,309 INFO  [Log] Menu builder page exists 
+2020-01-20 18:05:17,872 INFO  [Log] Clicks on Themedays tab 
+2020-01-20 18:05:25,147 INFO  [Log] Themedays page exists 
+2020-01-20 18:05:25,606 INFO  [Log] Clicks on Education tab 
+2020-01-20 18:05:31,884 INFO  [Log] Education page exists 
+2020-01-20 18:05:38,887 INFO  [Log] #######################################Log Started################################# 
+2020-01-20 18:05:41,754 INFO  [Log] Chrome Browser object created 
+2020-01-20 18:05:45,891 INFO  [Log] Maximize browser window 
+2020-01-20 18:05:51,127 INFO  [Log] Navigate to eCPS QA portal 
+2020-01-20 18:05:58,132 INFO  [Log] Waiting for QA portal to load 
+2020-01-20 18:05:58,227 INFO  [Log] Clicks Member login 
+2020-01-20 18:05:58,364 INFO  [Log] Enters user Name 
+2020-01-20 18:05:58,491 INFO  [Log] Enters Password 
+2020-01-20 18:05:58,595 INFO  [Log] Clicks on login button 
+2020-01-20 18:06:47,994 INFO  [Log] Clicks on Marketplace tab 
+2020-01-20 18:07:13,191 INFO  [Log] Clicks on Add supplier icon 
+2020-01-20 18:07:23,211 INFO  [Log] Clicks on Generate Reports icon 
+2020-01-20 18:07:30,811 INFO  [Log] Clicks on My Favorities icon 
+2020-01-20 18:07:38,449 INFO  [Log] Selects Menus & Recipes Main tab 
+2020-01-20 18:07:45,639 INFO  [Log] Selects Recipes Sub tab 
+2020-01-20 18:07:47,144 INFO  [Log] Recipes Home page exists 
+2020-01-20 18:07:50,545 INFO  [Log] Recipes List page exists 
+2020-01-20 18:07:50,587 INFO  [Log] Recipes table loaded 
+2020-01-20 18:07:53,335 INFO  [Log] Clicks on Recipe name in list page 
+2020-01-20 18:08:15,560 INFO  [Log] Clicks on Menus & Recipes tab 
+2020-01-20 18:08:15,630 INFO  [Log] Menu builder page exists 
+2020-01-20 18:08:21,695 INFO  [Log] Clicks on Themedays tab 
+2020-01-20 18:08:21,764 INFO  [Log] Themedays page exists 
+2020-01-20 18:08:27,250 INFO  [Log] Clicks on Education tab 
+2020-01-20 18:08:27,332 INFO  [Log] Education page exists 
+2020-01-20 18:08:33,605 INFO  [Log] #######################################Log Started################################# 
+2020-01-20 18:08:36,032 INFO  [Log] Edge Browser object created 
+2020-01-20 18:08:39,041 INFO  [Log] Maximize browser window 
+2020-01-20 18:08:40,934 INFO  [Log] Navigate to eCPS QA portal 
+2020-01-20 18:08:47,944 INFO  [Log] Waiting for QA portal to load 
+2020-01-20 18:08:47,984 INFO  [Log] Clicks Member login 
+2020-01-20 18:08:48,052 INFO  [Log] Enters user Name 
+2020-01-20 18:08:48,088 INFO  [Log] Enters Password 
+2020-01-20 18:08:48,119 INFO  [Log] Clicks on login button 
+2020-01-20 18:09:09,894 INFO  [Log] Clicks on Marketplace tab 
+2020-01-20 18:09:40,587 INFO  [Log] Clicks on Add supplier icon 
+2020-01-20 18:09:56,990 INFO  [Log] Clicks on Generate Reports icon 
+2020-01-20 18:10:06,193 INFO  [Log] Clicks on My Favorities icon 
+2020-01-20 18:10:13,401 INFO  [Log] Selects Menus & Recipes Main tab 
+2020-01-20 18:10:17,622 INFO  [Log] Selects Recipes Sub tab 
+2020-01-20 18:10:22,566 INFO  [Log] Recipes Home page exists 
+2020-01-20 18:10:27,385 INFO  [Log] Recipes List page exists 
+2020-01-20 18:10:27,420 INFO  [Log] Recipes table loaded 
+2020-01-20 18:10:27,767 INFO  [Log] Clicks on Recipe name in list page 
+2020-01-20 18:10:42,634 INFO  [Log] Clicks on Menus & Recipes tab 
+2020-01-20 18:10:49,969 INFO  [Log] Menu builder page exists 
+2020-01-20 18:10:54,117 INFO  [Log] Clicks on Themedays tab 
+2020-01-20 18:10:55,947 INFO  [Log] Themedays page exists 
+2020-01-20 18:10:56,090 INFO  [Log] Clicks on Education tab 
+2020-01-20 18:11:01,515 INFO  [Log] Education page exists 
+2020-01-20 18:34:19,186 INFO  [Log] #######################################Log Started################################# 
+2020-01-20 18:34:20,156 INFO  [Log] #######################################Log Started################################# 
+2020-01-20 18:34:22,865 INFO  [Log] Chrome Browser object created 
+2020-01-20 18:34:27,029 INFO  [Log] Maximize browser window 
+2020-01-20 18:34:31,439 INFO  [Log] Navigate to eCPS QA portal 
+2020-01-20 18:34:38,453 INFO  [Log] Waiting for QA portal to load 
+2020-01-20 18:34:38,553 INFO  [Log] Clicks Member login 
+2020-01-20 18:34:38,685 INFO  [Log] Enters user Name 
+2020-01-20 18:34:38,787 INFO  [Log] Enters Password 
+2020-01-20 18:34:38,857 INFO  [Log] Clicks on login button 
+2020-01-20 18:34:52,951 INFO  [Log] Clicks on Marketplace tab 
+2020-01-20 18:35:17,417 INFO  [Log] Clicks on Add supplier icon 
+2020-01-20 18:35:27,409 INFO  [Log] Clicks on Generate Reports icon 
+2020-01-20 18:35:35,099 INFO  [Log] Clicks on My Favorities icon 
+2020-01-20 18:35:42,764 INFO  [Log] Selects Menus & Recipes Main tab 
+2020-01-20 18:48:15,522 INFO  [Log] #######################################Log Started################################# 
+2020-01-20 18:48:20,377 INFO  [Log] Firefox Browser object created 
+2020-01-20 18:48:23,597 INFO  [Log] #######################################Log Started################################# 
+2020-01-20 18:48:26,291 INFO  [Log] Chrome Browser object created 
+2020-01-20 18:48:30,489 INFO  [Log] Maximize browser window 
+2020-01-20 18:48:35,109 INFO  [Log] Navigate to eCPS QA portal 
+2020-01-20 19:07:49,717 INFO  [Log] #######################################Log Started################################# 
+2020-01-20 19:12:44,745 INFO  [Log] #######################################Log Started################################# 
+2020-01-20 19:12:50,141 INFO  [Log] Firefox Browser object created 
+2020-01-20 19:12:53,357 INFO  [Log] #######################################Log Started################################# 
+2020-01-20 19:12:56,273 INFO  [Log] Chrome Browser object created 
+2020-01-20 19:13:00,425 INFO  [Log] Maximize browser window 
+2020-01-20 19:13:04,946 INFO  [Log] Navigate to eCPS QA portal 
+2020-01-20 19:45:55,783 INFO  [Log] #######################################Log Started################################# 
+2020-01-20 19:46:00,716 INFO  [Log] Firefox Browser object created 
+2020-01-20 19:46:03,920 INFO  [Log] #######################################Log Started################################# 
+2020-01-20 19:46:06,713 INFO  [Log] Chrome Browser object created 
+2020-01-21 09:32:56,195 INFO  [Log] #######################################Log Started################################# 
+2020-01-21 09:33:01,838 INFO  [Log] Firefox Browser object created 
+2020-01-21 09:33:05,068 INFO  [Log] #######################################Log Started################################# 
+2020-01-21 09:33:08,209 INFO  [Log] Chrome Browser object created 
+2020-01-21 09:33:12,359 INFO  [Log] Maximize browser window 
+2020-01-21 09:53:03,225 INFO  [Log] #######################################Log Started################################# 
+2020-01-21 09:53:08,103 INFO  [Log] Firefox Browser object created 
+2020-01-21 09:53:11,442 INFO  [Log] Maximize browser window 
+2020-01-21 09:53:14,232 INFO  [Log] Navigate to eCPS QA portal 
+2020-01-21 09:53:21,282 INFO  [Log] Waiting for QA portal to load 
+2020-01-21 09:53:21,672 INFO  [Log] Clicks Member login 
+2020-01-21 09:53:21,813 INFO  [Log] Enters user Name 
+2020-01-21 09:53:22,063 INFO  [Log] #######################################Log Started################################# 
+2020-01-21 09:53:24,914 INFO  [Log] Chrome Browser object created 
+2020-01-21 09:53:29,077 INFO  [Log] Maximize browser window 
+2020-01-21 09:53:31,010 INFO  [Log] Navigate to eCPS QA portal 
